@@ -1,3 +1,3 @@
 # covid_dash
 Start on interactive chart and maps for COVID Dash
-https://mybinder.org/v2/gh/Culler1/covid_dash/004ede853a97c8bce506f99ef6a6af446b02a1c8
+https://mybinder.org/v2/gh/Culler1/covid_dash/c385926545e814a194f34b6f48e2f84f57ebfdc0
